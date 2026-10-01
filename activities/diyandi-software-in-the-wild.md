@@ -79,7 +79,7 @@ You may include **one screenshot** or reference image only if it does not contai
 
 > Do not include passwords, private messages, account numbers, grades, addresses, personal information, or other confidential content.
 
-<img src="gmaps.png" alt="A route plotted by Google Maps missing information about accessibility features on the path" width="25%" >
+<img src="gmaps.png" alt="A route plotted by Google Maps missing information about accessibility features on the path" width="30%" >
 
 **External sources used, if any:**  
 None
