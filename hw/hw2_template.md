@@ -23,8 +23,8 @@ or an assumption.]
 
 | Member | Problem or inconvenience | Who experiences it? | Current approach | Basis of the idea |
 |---|---|---|---|---|
-| [Name] | [Idea 1] | [Group] | [Approach] | [Basis] |
-| [Name] | [Idea 2] | [Group] | [Approach] | [Basis] |
+| Smith, Yaseen P. | Difficulty navigating public transit routes (bus/jeepney), stop locations, and updated fare matrices in an unfamiliar city | Freshmen students, out-of-town boarders, tourists, and infrequent commuters | Asking passersby or drivers, relying on word-of-mouth recommendations, or using trial-and-error | Experience (struggling to commute when moving into the city for university) and observation (students asking in the MSU-IIT Cats FB page on how to get from point a to point b) |
+| Smith, Yaseen P. | Lack of information on wheelchair-accessible paths, ramp locations, elevator statuses, and PWD-friendly facilities in urban areas | Persons with disabilities (PWDs), elderly commuters, and caregivers | Scouting locations in advance, asking security guards, or relying on manual assistance from others | Observation of local urban sidewalk/building barriers |
 
 ## 2. Candidate Comparison and Selection
 
